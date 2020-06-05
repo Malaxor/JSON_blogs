@@ -1,0 +1,1 @@
+React-Redux app that uses JSON placeholder API to retrieve and display blog posts.
